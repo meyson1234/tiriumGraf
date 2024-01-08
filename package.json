@@ -1,0 +1,12 @@
+{
+  "name": "jsgraf",
+  "version": "1.0.0",
+  "description": "This is a responsive sales dashboard built using **HTML 5**, **CSS 3**, and **JavaScript**. Charts were built using **ApexCharts 3**.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
